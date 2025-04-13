@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "835224553165",
+    "firebase_url": "https://cardealerstudio-default-rtdb.firebaseio.com",
+    "project_id": "cardealerstudio",
+    "storage_bucket": "cardealerstudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835224553165:android:031e614311da2d76978b84",
+        "android_client_info": {
+          "package_name": "com.mikeail.customerstudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0ryaVi0E-gl_POk5D0ZJqWyp6pMTyes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
